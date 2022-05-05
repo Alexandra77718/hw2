@@ -1,0 +1,76 @@
+aside {
+    width: 80%;
+    height: 70px;
+    margin: 20px 10% 0% 10%;
+    background-color: rgb(244, 222, 192);
+}
+.advertising {
+    margin: 10px;
+    width: 100px;
+    height: 20px;
+    background-color: aliceblue;
+    margin-left: 45%;
+}
+
+.little {
+    width: 80%;
+    height: 150px;
+    background-color: rgba(251, 204, 143, 0.579);
+    margin: 20px 10% 0% 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.big {
+    width: 80%;
+    height: 350px;
+    background-color: rgba(251, 204, 143, 0.579);
+    margin: 20px 10% 0% 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 55px;
+}
+
+.big> div {
+    width: 500px;
+    height: 100px;
+    margin-left: 30%;
+    margin-top: 30px;
+    background-color: rgba(32, 236, 168, 0.284);
+}   
+
+.container {
+    background-color: rgba(0, 0, 255, 0.172);
+    width: 375px;
+    height: 25px;
+    margin-left: 30%;
+    margin-top: 5px;
+}
+.social_media> div {
+width: 70px;
+height: 20px;
+background-color: rgb(247, 179, 229);
+margin: 5px 10px 0px;
+display: inline-block;
+}
+footer {
+    width: 80%;
+    height: 90px;
+    margin: 20px 10% 0% 10%;
+    background-color: rgb(247, 238, 226);
+}
+.footer {
+    width: 80%;
+    height: 50px;
+    background-color: rgb(255, 215, 156);
+    margin: 20px 50px 0px 50px;
+}
+   
+.footer> div {
+   width: 70px;
+   height: 50px;
+   display: inline-block;
+   width: 200px;
+   height: 50px;
+   background-color: rgba(135, 135, 157, 0.461);
+   margin: 0px 50px 0px 50px; 
+}
