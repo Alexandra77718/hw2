@@ -31,4 +31,4 @@ Various useful links
 13. [Favicon generator](https://www.favicon-generator.org/)
 14. [Юникод](https://unicode-table.com/ru/)
 15. &#9888; [Linked.in](https://www.linkedin.com/) • зарегистрироваться 
-16. [Markdown Cheat Sheet]
+16. [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
